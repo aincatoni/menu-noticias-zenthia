@@ -203,7 +203,7 @@ ul {
   padding: 2rem 1.5rem;
   transition: 0.3s;
   cursor: pointer;
-  min-height: 175px;
+  min-height: 202px;
   border-radius: 0% 0% 10px 10px;
 }
 .card-blog:hover {
@@ -219,6 +219,13 @@ ul {
   color: #7d6d6d;
   height: 100%;
 }
+
+.category-card-blog {
+  font-family: Gotham;
+  font-size: 14px;
+  color: #d8a99a;
+}
+
 .title-card-text {
   color: #868582;
   font-size: 1.4rem;
